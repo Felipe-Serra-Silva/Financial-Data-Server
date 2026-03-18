@@ -1,6 +1,6 @@
 import json
 import socket
-from api_client import ASSETS, get_asset
+from funcoes_aux.api_client import ASSETS, get_asset
 import logging
 
 
